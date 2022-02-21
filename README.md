@@ -8,9 +8,9 @@
 ##  Microcontroller
    * It is used to control the process of Washing cycle & To drive the external output devices such as Water Inlet Valve, Wash Motor, WAter Drain Valve.
 ##  Water Inlet Valve 
-    * It is a part that connects the two water hoses to the machine and it controls the flow of both hot and cold water.
+   * It is a part that connects the two water hoses to the machine and it controls the flow of both hot and cold water.
 ##  Water Drain Valve
-    * The drain hose usually found on the back of the washer carries waste water out of the machine
+   * The drain hose usually found on the back of the washer carries waste water out of the machine
 ## LCD Display
    * It is used to display the timer set during the washing process
 ## Buttons 
