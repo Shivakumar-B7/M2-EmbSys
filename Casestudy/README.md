@@ -19,7 +19,7 @@
    * The buttons are mainly used to set the water level, no of cycle, temperature.
   
   Load Sensor
-   * The washer senses the size of the load and adds the correct amount of water for the load size
+   * The washer senses the size of the load and adds the required amount of water for the load size
 
 ## Low Level Requirements
   * water level adjustment by user
