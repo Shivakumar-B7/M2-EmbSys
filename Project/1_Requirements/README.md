@@ -30,8 +30,23 @@
   #
   
   # 2. Requirements
-  ## 2.1 High Level Requirments
-   HLR1 - 
+  ## 2.1 High Level Requirements
+   HLR1 - Elevators should move up when called from upward and down when called from downward. It moves exactly to that floor when corresponding floor no is pressed
+   
+   HLR2 - Doors of elevator must open only when it reaches the floors
+   
+   HLR3 - Inside the elevators it should display the current floor
+   
+   HLR4 - Elevators should be capable of moving up and down
+   
+   ## 2.2 Low Level Requirements
+   LLR1 - It is stopping at each floor
+   
+   LLR2 - Elevators should move up when called from upward and down when called from downward.
+   
+   LLR3 - No break points exists
+   
+   LLR4 - The elevator should go to the nearest floor when two people are accessing lift from different floors.
  
   
   
